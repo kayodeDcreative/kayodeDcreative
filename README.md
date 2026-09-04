@@ -34,3 +34,9 @@ Passionate about building seamless user experiences and scalable solutions.
   <strong>Open Source:</strong> <a href="https://github.com/gately-auth/gately-auth">@gately-auth/gately-auth</a><br/>
   <strong>Expertise:</strong> Framer Partner & Expert
 </sub></p>
+
+<div align="center">
+  <a href="https://framer.link/kayodedcreative">
+    <img src="https://img.shields.io/badge/Get%20Started%20with%20Framer-9B59B6?style=for-the-badge&logo=framer&logoColor=white" alt="Get Started with Framer"/>
+  </a>
+</div>
