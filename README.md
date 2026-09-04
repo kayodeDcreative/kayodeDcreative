@@ -40,3 +40,7 @@ Passionate about building seamless user experiences and scalable solutions.
     <img src="https://img.shields.io/badge/Get%20Started%20with%20Framer-9B59B6?style=for-the-badge&logo=framer&logoColor=white" alt="Get Started with Framer"/>
   </a>
 </div>
+
+<p align="center"><sub>
+  <strong>Follow Me:</strong> <a href="https://www.framer.com/@kayodedcreative/">Framer</a> • <a href="https://x.com/kayodedcreative">X (Twitter)</a>
+</sub></p>
