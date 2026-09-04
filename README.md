@@ -12,7 +12,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="29" alt="cloudflare logo"  />
   <img width="5" />
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cGF0aCBkPSJNIDQ0LjY1IDMzLjk5MiBMIDk1LjM1IDMzLjk5MiBMIDk1LjM1IDU5LjM0MSBMIDcwIDU5LjM0MSBaIE0gNDQuNjUgNTkuMzQxIEwgNzAgNTkuMzQxIEwgOTUuMzUgODQuNjkxIEwgNDQuNjUgODQuNjkxIFogTSA0NC42NSA4NC42OTFMIDCMODACSA4NC42OTFMIDCMODACIDEXMCAWMJALMJAYWMAMJABMDAWJIA0MzQuOTkxIFoiIGZpbGw9IiNmZmZmZmYiPjwvcGF0aD48L3N2Zz4=" height="29" alt="framer logo"  />
+  <img src="https://www.framer.com/favicon.ico" height="29" alt="framer logo"  />
 </div>
 
 <p align="center"><sub>
