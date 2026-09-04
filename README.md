@@ -12,7 +12,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="29" alt="cloudflare logo"  />
   <img width="5" />
-  <img src="https://img.icons8.com/color/96/000000/framer.png" height="29" alt="framer logo"  />
+  <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 140 140"><path d="M 44.65 33.992 L 95.35 33.992 L 95.35 59.341 L 70 59.341 Z M 44.65 59.341 L 70 59.341 L 95.35 84.691 L 44.65 84.691 Z M 44.65 84.691 L 70 84.691 L 70 110.041 Z" fill="currentColor"></path></svg>
 </div>
 
 <p align="center"><sub>
