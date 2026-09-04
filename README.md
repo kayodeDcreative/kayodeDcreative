@@ -30,6 +30,7 @@ Passionate about building seamless user experiences and scalable solutions.
 <p align="center"><sub>
   <strong>Tech Stack:</strong> React • React Native • Swift • TypeScript • Vite • Cloudflare • Framer<br/>
   <strong>Building:</strong> <a href="https://usegately.com">Gately</a> • <a href="https://framergenie.com">Framergenie</a> • <a href="https://supa-sync.com">Supasync</a><br/>
+  <strong>Co-Founder:</strong> <a href="https://peersheep.com/">Peersheep</a><br/>
   <strong>Mobile Apps:</strong> <a href="https://apps.apple.com/us/app/famturf-rabbit-farm-manager/id6771785755">Famturf</a> • <a href="https://apps.apple.com/us/app/magana/id6792443851">Magana</a><br/>
   <strong>Open Source:</strong> <a href="https://github.com/gately-auth/gately-auth">@gately-auth/gately-auth</a><br/>
   <strong>Expertise:</strong> Framer Partner & Expert
