@@ -39,10 +39,10 @@ Passionate about building seamless user experiences and scalable solutions.
 
 <div align="center">
 
-### [useGately.com](https://usegately.com)
+### [usegately.com](https://usegately.com)
 Building the next generation of web tools for developers
 
-### [FramerGenie](https://framergenie.com)
+### [framergenie](https://framergenie.com)
 Currently building innovative Framer components & design tools
 
 ### [Supa-Sync.com](https://supa-sync.com)
