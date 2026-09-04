@@ -30,22 +30,6 @@ Passionate about building seamless user experiences and scalable solutions.
 </div>
 
 <p align="center"><sub>
-  <strong>Tech Stack:</strong> React • React Native • Swift • TypeScript • Vite • Cloudflare • Framer
+  <strong>Tech Stack:</strong> React • React Native • Swift • TypeScript • Vite • Cloudflare • Framer<br/>
+  <strong>Building:</strong> <a href="https://usegately.com">usegately.com</a> • <a href="https://framergenie.com">framergenie</a> • <a href="https://supa-sync.com">supa-sync.com</a>
 </sub></p>
-
----
-
-## 🚀 Current Projects
-
-<div align="center">
-
-### [usegately.com](https://usegately.com)
-Building the next generation of web tools for developers
-
-### [framergenie](https://framergenie.com)
-Currently building innovative Framer components & design tools
-
-### [Supa-Sync.com](https://supa-sync.com)
-Previously built - Real-time synchronization platform
-
-</div>
