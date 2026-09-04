@@ -11,8 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="29" alt="react native logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="29" alt="cloudflare logo"  />
-  <img width="5" />
-  <img src="https://www.framer.com/favicon.ico" height="29" alt="framer logo"  />
 </div>
 
 <p align="center"><sub>
